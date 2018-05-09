@@ -1,0 +1,16 @@
+Which of the following are valid Boolean Expressions that could be used in an
+if
+conditional statement or
+while
+loop?
+
+a. var = 22  No, this is not a boolean value, it is setting a variable.
+b.var > 22  Can be True or False, so yes.
+c.string_var == ‘hello’ Can be True or False, so yes.
+d.result = num1 + num2 / 3 No, not a bool value.
+e.total == num1 + num1 Yes, this be a bool value.
+f.(my_var) No.
+g.False Is a bool value, yes.
+h.input(‘Enter a number:’) No
+i.result%2 No
+j.user_text = input(‘Enter a number:’) No
